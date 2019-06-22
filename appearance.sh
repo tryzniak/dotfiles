@@ -1,1 +1,1 @@
-PS1="    \w: "
+export PROMPT='%F{blue}%B%c %b%f: '
